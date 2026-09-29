@@ -1,4 +1,4 @@
-# Rent Intelligence Lab 🏠
+# Rent Intelligence Lab 
 
 A machine learning project to predict house rent using Multiple Linear Regression.
 
